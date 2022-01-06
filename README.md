@@ -34,14 +34,10 @@ Employee Database: A Mystery in Two Parts
 
  * Performed data modeling and data analysis on the data using SQL.
  
- ![queries.sql]EmployeeSQL/queries.sql
+ ![queries.sql](EmployeeSQL/queries.sql)
 
 
 
 ## References
 
 Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
-
-- - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
