@@ -1,30 +1,18 @@
-# SQL Homework - Employee Database: A Mystery in Two Parts
+Employee Database: A Mystery in Two Parts
 
 ![sql.png](sql.png)
 
 ## Background
 
-It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
+ * Designed ERD
+ * Created six relational tables within pgAdmin housing HP employee data
+ * Performed data modeling and data analysis on the data using SQL.
 
-In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
+## Tools
 
-1. Data Engineering
-
-3. Data Analysis
-
-Note: You may hear the term "Data Modeling" in place of "Data Engineering," but they are the same terms. Data Engineering is the more modern wording instead of Data Modeling.
-
-### Before You Begin
-
-1. Create a new repository for this project called `sql-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for the SQL challenge. Use a folder name to correspond to the challenge: **EmployeeSQL**.
-
-4. Add your files to this folder.
-
-5. Push the above changes to GitHub.
+ * SQL
+ * pgAdmin/Postgres
+ * ERD
 
 ## Instructions
 
