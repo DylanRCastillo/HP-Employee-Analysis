@@ -19,7 +19,7 @@ Employee Database: A Mystery in Two Parts
 #### Data Modeling
 
 Inspect the CSVs and sketch out an ERD of the tables. 
-![EmployeeSQL/QuickDBD-export.png]
+![EmployeeSQL/QuickDBD-export.png](QuickDBD-export.png)
 
 #### Data Engineering
 
