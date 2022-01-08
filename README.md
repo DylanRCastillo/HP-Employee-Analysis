@@ -1,6 +1,4 @@
-Employee Database: A Mystery in Two Parts
-
-![sql.png](sql.png)
+SQL Employee Modeling
 
 ## Background
 
@@ -26,7 +24,7 @@ Employee Database: A Mystery in Two Parts
 
 * Created six relational tables within pgAdmin housing HP employee data
 
-![tables.sql](EmployeeSQL/tables.sql)
+![schemas](EmployeeSQL/tables.sql)
 
 
 
@@ -34,7 +32,7 @@ Employee Database: A Mystery in Two Parts
 
  * Performed data modeling and data analysis on the data using SQL.
  
- ![queries.sql](EmployeeSQL/queries.sql)
+ ![queries](EmployeeSQL/queries.sql)
 
 
 
