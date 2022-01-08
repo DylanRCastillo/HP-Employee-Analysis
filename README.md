@@ -24,15 +24,15 @@ SQL Employee Modeling
 
 * Created six relational tables within pgAdmin housing HP employee data
 
-![schemas](EmployeeSQL/tables.sql)
+[schemas](EmployeeSQL/tables.sql)
 
 
 
 #### Data Analysis
 
- * Performed data modeling and data analysis on the data using SQL.
+ * Performed data modeling and data analysis on the data using SQL queries.
  
- ![queries](EmployeeSQL/queries.sql)
+ [queries](EmployeeSQL/queries.sql)
 
 
 
