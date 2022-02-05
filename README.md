@@ -40,10 +40,10 @@ SQL Employee Modeling
 
 
 * Histogram
-[histogram](Images/plot1.png)
+![histogram](Images/plot1.png)
 
 * Bar Chart
-[bar chart](Images/plot2.png)
+![bar chart](Images/plot2.png)
 
 ## References
 
