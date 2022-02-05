@@ -1,4 +1,4 @@
-SQL Employee Modeling
+# SQL Employee Modeling
 
 ## Background
 
