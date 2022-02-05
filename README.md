@@ -1,4 +1,4 @@
-# SQL Employee Modeling
+# HP Employee Analysis
 
 ## Background
 
