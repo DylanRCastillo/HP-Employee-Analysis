@@ -38,11 +38,13 @@ SQL Employee Modeling
 
  * Using SQLAlchemy and Pandas to connect to Postgres database and visualize employee information
 
-
 * Histogram
+
 ![histogram](Images/plot1.PNG)
 
+
 * Bar Chart
+
 ![bar chart](Images/plot2.PNG)
 
 ## References
