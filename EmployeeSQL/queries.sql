@@ -66,3 +66,30 @@ SELECT last_name, COUNT(last_name) AS "Total Count"
 FROM employees
 GROUP BY last_name
 ORDER BY "Total Count" DESC;
+
+-- List the top 10 highest paid positions, people, and gender
+SELECT t.title, CONCAT(e.first_name, ' ' , e.last_name) AS full_name, e.sex, s.salary 
+FROM employees AS e 
+INNER JOIN titles AS t ON e.emp_title = t.title_id 
+INNER JOIN salaries AS s ON e.emp_no = s.emp_no 
+ORDER BY s.salary DESC 
+LIMIT 10;
+
+-- List the top 10 lowest paid positions, people, and gender
+SELECT t.title, CONCAT(e.first_name, ' ' , e.last_name) AS full_name, e.sex, s.salary 
+FROM employees AS e 
+INNER JOIN titles AS t ON e.emp_title = t.title_id 
+INNER JOIN salaries AS s ON e.emp_no = s.emp_no 
+ORDER BY s.salary ASC 
+LIMIT 10;
+
+-- List the total employees, total male/female, avg salary, total_salary in each department grouped by department and sex
+SELECT dtt.dept_name, COUNT(de.emp_no) AS total_employees, AVG(s.salary) as avg_salary, SUM(s.salary) as total_salary, e.sex, COUNT(e.sex) as gender_count 
+FROM departments AS dtt 
+INNER JOIN dept_emp AS de ON dtt.dept_no = de.dept_no 
+INNER JOIN employees AS e ON e.emp_no = de.emp_no 
+INNER JOIN salaries AS s ON s.emp_no = e.emp_no 
+GROUP BY dtt.dept_name, e.sex 
+ORDER BY avg_salary DESC;
+
+

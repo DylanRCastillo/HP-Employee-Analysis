@@ -5,9 +5,7 @@ CREATE TABLE departments (
 );
 
 -- import data into departments
-SELECT * FROM departments
-
-
+SELECT * FROM departments;
 
 -- Create a table for the titles
 CREATE TABLE titles(
@@ -31,7 +29,7 @@ CREATE TABLE employees(
 );
 
 -- import data into employees
-SELECT * FROM employees
+SELECT * FROM employees;
 
 --create a table for the department employees
 CREATE TABLE dept_emp(
@@ -42,7 +40,7 @@ CREATE TABLE dept_emp(
 );
 
 -- import data into dept_emp
-SELECT * FROM dept_emp
+SELECT * FROM dept_emp;
 
 --create a table for the department managers
 CREATE TABLE dept_manager(
@@ -52,7 +50,7 @@ CREATE TABLE dept_manager(
 	FOREIGN KEY(dept_no) REFERENCES departments(dept_no))
 	
 -- import data into dept_manager
-SELECT * FROM dept_manager
+SELECT * FROM dept_manager;
 
 --create a table for salaries
 CREATE TABLE salaries(
@@ -62,5 +60,5 @@ CREATE TABLE salaries(
 );
 
 -- import data into salaries
-SELECT * FROM salaries
+SELECT * FROM salaries;
 
