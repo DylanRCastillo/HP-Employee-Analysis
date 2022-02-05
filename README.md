@@ -18,13 +18,13 @@ SQL Employee Modeling
 
 * Inspect the CSVs and sketch out an ERD of the tables.
 
-![QuickDBD-export.png](EmployeeSQL/QuickDBD-export.png)
+![QuickDBD-export.png](Images/QuickDBD-export.png)
 
 #### Data Engineering
 
 * Created six relational tables within pgAdmin housing HP employee data
 
-[schemas](EmployeeSQL/tables.sql)
+[schemas](Images/tables.png)
 
 
 
@@ -32,7 +32,7 @@ SQL Employee Modeling
 
  * Performed data modeling and data analysis on the data using SQL queries.
  
- [queries](EmployeeSQL/queries.sql)
+ [queries](Images/EmployeeSQL/queries.png)
 
 
 
