@@ -24,7 +24,7 @@ SQL Employee Modeling
 
 * Created six relational tables within pgAdmin housing HP employee data
 
-[schemas]EmployeeSQL/tables.sql)
+[schemas](EmployeeSQL/tables.sql)
 
 
 
