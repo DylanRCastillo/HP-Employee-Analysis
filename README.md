@@ -2,17 +2,7 @@ SQL Employee Modeling
 
 ## Background
 
- * Designed ERD
- * Created six relational tables within pgAdmin housing HP employee data
- * Performed data modeling and data analysis on the data using SQL.
-
-## Tools
-
- * SQL
- * pgAdmin/Postgres
- * ERD
-
-## Instructions
+Analyzing HP employee data to extract relevant information to understand department and employee needs.
 
 #### Data Modeling
 
