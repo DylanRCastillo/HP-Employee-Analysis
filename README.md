@@ -33,8 +33,17 @@ SQL Employee Modeling
  * Performed data modeling and data analysis on the data using SQL queries.
  
  [queries](EmployeeSQL/queries.sql)
+ 
+#### Data Exploration & Visualization
+
+ * Using SQLAlchemy and Pandas to connect to Postgres database and visualize employee information
 
 
+* Histogram
+[histogram](Images/plot1.png)
+
+* Bar Chart
+[bar chart](Images/plot2.png)
 
 ## References
 
