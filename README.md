@@ -20,6 +20,8 @@ Analyzing HP employee data to extract and analyze department and employee metric
 
  * Performed data modeling and data analysis on the data using SQL queries in Python.
  
+ ![python](Images/0.PNG)
+ 
 #### Data Exploration & Visualization
 
  * Using SQLAlchemy and Pandas to connect to Postgres database and visualize employee information
