@@ -28,12 +28,14 @@ Analyzing HP employee data to extract relevant information to understand departm
 
 * Bar Charts
 
-#### <u>Frequency of Above Average Salary, by Department</u>
+### <u> Frequency of Sex, by Department and Sex in 1980s and 1990s </u>
 
-##### The bar graph shows that a majority of employees in the Customer Service, Development, Human Resources, Production, Quality Management, Research departments are paid below average salary. However, in Marketings and Sales there seems to be an even number of employees paid above and below average.
+##### It seems that in 1980s and 1990s the most frequency of Males is 4847 and for the most females is 3305 in the Development department. Also, in 1980s there is a greater total increase of hires for both Males and Females however, hiring rate percentages between 1980s and 1990s of stayed relatively the same with Males (60%) and Females (40%) in each department.
 
 ![bar chart](Images/1.png)
 ![bar chart](Images/2.png)
+
+
 ![bar chart](Images/3.png)
 ![bar chart](Images/4.png)
 ![bar chart](Images/5.png)
