@@ -28,9 +28,9 @@ Analyzing HP employee data to extract relevant information to understand departm
 
 * Bar Charts
 
-### <u>Frequency of Above Average Salary, by Department</u>
+#### <u>Frequency of Above Average Salary, by Department</u>
 
-#### The bar graph shows that a majority of employees in the Customer Service, Development, Human Resources, Production, Quality Management, Research departments are paid below average salary. However, in Marketings and Sales there seems to be an even number of employees paid above and below average.
+##### The bar graph shows that a majority of employees in the Customer Service, Development, Human Resources, Production, Quality Management, Research departments are paid below average salary. However, in Marketings and Sales there seems to be an even number of employees paid above and below average.
 
 ![bar chart](Images/1.png)
 ![bar chart](Images/2.png)
