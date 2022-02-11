@@ -39,8 +39,8 @@ Analyzing HP employee data to extract relevant information to understand departm
 
 ##### It seems that the highest paid position is Staff with a salary of $129492 and the lowest paid position is tied between Enginner, Staff, Senior Engineer, and Technique Leader with a salary of $40000.
 
-![bar chart](Images/9.PNG)
 ![bar chart](Images/10.PNG)
+![bar chart](Images/12.PNG)
 
 ![bar chart](Images/3.png)
 ![bar chart](Images/4.png)
