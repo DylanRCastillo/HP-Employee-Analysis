@@ -24,7 +24,6 @@ Analyzing HP employee data to extract and analyze department and employee metric
 
  * Using SQLAlchemy and Pandas to connect to Postgres database and visualize employee information
 
-* Bar Charts
 
 #### Frequency of Sex, by Department and Sex in 1980s and 1990s
 
