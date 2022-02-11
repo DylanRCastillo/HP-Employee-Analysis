@@ -28,7 +28,7 @@ Analyzing HP employee data to extract relevant information to understand departm
 
 * Histogram
 
-![histogram](Images/plot1.PNG)
+![histogram](Images/1.png)
 
 
 * Bar Chart
