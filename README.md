@@ -2,7 +2,7 @@
 
 ## Background
 
-Analyzing HP employee data to extract relevant information to understand department and employee needs.
+Analyzing HP employee data to extract relevant information to understand department and employee metrics.
 
 #### Data Modeling
 
@@ -16,13 +16,11 @@ Analyzing HP employee data to extract relevant information to understand departm
 
 [schemas](EmployeeSQL/tables.sql)
 
-
-
 #### Data Analysis
 
- * Performed data modeling and data analysis on the data using SQL queries.
+ * Performed data modeling and data analysis on the data using SQL queries in Python.
  
- [queries](EmployeeSQL/queries.sql)
+ [queries](Connecting to Database/main.ipynb)
  
 #### Data Exploration & Visualization
 
