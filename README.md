@@ -26,9 +26,13 @@ Analyzing HP employee data to extract relevant information to understand departm
 
  * Using SQLAlchemy and Pandas to connect to Postgres database and visualize employee information
 
-* Histogram
+* Bar Charts
 
-![histogram](Images/1.png)
+![bar chart](Images/1.png)
+![bar chart](Images/2.png)
+![bar chart](Images/3.png)
+![bar chart](Images/4.png)
+![bar chart](Images/5.png)
 
 
 * Bar Chart
