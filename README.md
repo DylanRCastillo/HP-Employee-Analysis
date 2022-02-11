@@ -53,12 +53,13 @@ Analyzing HP employee data to extract relevant information to understand departm
 ##### The bar graph shows that a majority of employees in the Customer Service, Development, Human Resources, Production, Quality Management, Research departments are paid below average salary. However, in Marketings and Sales there seems to be an even number of employees paid above and below average.
 
 ![bar chart](Images/4.png)
+
+#### Salary Range of Employees
+
+##### It seem that the salary range is a left skewed distribution with a greater number of employee receiving a salary of $40000 and very few employees receiving a salary of $120000.
+
 ![bar chart](Images/5.png)
 
-
-* Bar Chart
-
-![bar chart](Images/plot2.PNG)
 
 ## References
 
