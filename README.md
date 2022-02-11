@@ -42,7 +42,16 @@ Analyzing HP employee data to extract relevant information to understand departm
 ![bar chart](Images/10.PNG)
 ![bar chart](Images/12.PNG)
 
+#### Average Salary by Title
+
+##### The bar graph shows that senior staff and staff are paid roughly $10000 higher than other positions.
+
 ![bar chart](Images/3.png)
+
+#### Frequency of Above Average Salary, by Department
+
+##### The bar graph shows that a majority of employees in the Customer Service, Development, Human Resources, Production, Quality Management, Research departments are paid below average salary. However, in Marketings and Sales there seems to be an even number of employees paid above and below average.
+
 ![bar chart](Images/4.png)
 ![bar chart](Images/5.png)
 
