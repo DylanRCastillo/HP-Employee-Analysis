@@ -2,7 +2,7 @@
 
 ## Background
 
-Analyzing HP employee data to extract relevant information to understand department and employee metrics such as sex, salary, hiring rates, and departments.
+Analyzing HP employee data to extract and analyze department and employee metrics such as sex, salary, hiring rates, and departments to find any key insights to improve company support to employees.
 
 #### Data Modeling
 
