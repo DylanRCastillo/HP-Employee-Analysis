@@ -28,7 +28,7 @@ Analyzing HP employee data to extract and analyze department and employee metric
 
 #### Frequency of Sex, by Department and Sex in 1980s and 1990s
 
-##### It seems that in 1980s and 1990s the most frequency of Males is 4847 and for the most females is 3305 in the Development department. Also, in 1980s there is a greater total increase of hires for both Males and Females however, hiring rate percentages between 1980s and 1990s of stayed relatively the same with Males (60%) and Females (40%) in each department.
+##### It seems that in 1980s and 1990s the most frequency of Males is 4847 and for the most females is 3305 in the Development department. Also, in 1980s there is a greater total increase of hires for both Males and Females however, hiring rate percentages between 1980s and 1990s have stayed relatively the same with Males (60%) and Females (40%) in each department.
 
 ![bar chart](Images/1.png)
 ![bar chart](Images/2.png)
